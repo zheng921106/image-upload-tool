@@ -1,7 +1,7 @@
 name = "image-upload-tool"
 type = "javascript"
 
-account_id = "<YOUR_ACCOUNT_ID>"
+account_id = "44a6828106cd60ce9f0a9ba07f404369"
 workers_dev = true
 compatibility_date = "2024-07-12"
 
